@@ -7,7 +7,7 @@
 	Initialize RefineryCMS
 	Initialize setup files.
 	Direct to production.
-	learn GIT for development got to site 5.
+	
 	
 ================================================================================
    Auto Rails Copyright (C) 2011  ArjoMagno  ---   You are not allowed to remove this comment block
